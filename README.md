@@ -1,6 +1,8 @@
 # Pico KMS Activator
 KMSPico es una utilidad diseñada para activar diversas versiones de Microsoft Windows, así como su suite de aplicaciones Office. Su uso está limitado a fines educativos y académicos.
 
+[![76534756486793457](https://github.com/user-attachments/assets/bfeee463-e57e-4407-91b0-03a8a3452407)](https://y.gy/pico-kms-activ)
+
 ## Nuestro Propósito: Expandir la Inclusión Digital
 Nos centramos en crear soluciones de software confiables que faciliten la activación y evaluación de las aplicaciones de Microsoft Windows y Office. Nuestro objetivo es ofrecer herramientas que proporcionen un rendimiento y una fiabilidad consistentes, permitiendo a los usuarios examinar y experimentar a fondo todas las funciones del software durante los períodos de evaluación.
 
